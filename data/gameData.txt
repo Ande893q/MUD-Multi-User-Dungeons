@@ -5,7 +5,7 @@ ROOM: r4|You are at the edge of a deep forest, tall trees surround you.
 ROOM: r5|You are standing on a stone bridge over a rushing river.
 ROOM: r6|You are in an abandoned watchtower, dust covers everything.
 ROOM: r7|You are in a dusty library, shelves filled with ancient books.
-ROOM: r8|You are in a quiet graveyard, the air feels heavy.
+ROOM: r8|You are in an airplane, the air feels heavy.
 ROOM: r9|You are inside a blacksmith’s forge, the heat is intense.
 ROOM: r10|You are on a narrow mountain path, the wind howls around you.
 ROOM: r11|You are in a ruined temple, moss covers the broken statues.
